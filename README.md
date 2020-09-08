@@ -27,7 +27,7 @@ List of throwaway/fake emails.
 
 ## Usage
 
-You can download a copy of this repo or use it live by sending a GET request to `https://api.riverside.rocks/v2/emails`
+You can download a copy of this repo or use it live by sending a GET request to <br> `https://api.riverside.rocks/v2/emails`
 
 ## Helping out
 
